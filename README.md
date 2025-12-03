@@ -19,26 +19,6 @@ Cloud-connected systems (Firebase, custom servers)<br><br>
 📱 Mobile Development<br>
 React Native apps with real-time alerts, messaging & multilingual support<br><br>
 
-🏗️ Highlighted Projects<br>
-
-🎾 Smart Tennis Court Management System (FYP)<br>
-ESP32 + sensors to monitor court conditions 🌦️<br>
-AI playability detection<br>
-React + Laravel + MySQL website<br>
-Deployed online: tennis-club-akouda.tn<br>
-Node.js real-time server<br><br>
-
-🚤 Smart Marine Vessel IoT System<br>
-Fire, smoke & water detection sensors<br>
-ESP32 + MQTT<br>
-React Native + Firebase<br>
-Real-time alerts & messaging<br><br>
-
-📊 SCGF Accounting Platform<br>
-React + Node.js web app<br>
-Scheduling, alerts & paperless workflow<br>
-Improved efficiency & UX<br><br>
-
 🛠️ Tech Stack<br>
 Languages: C, Java, Python, PHP<br>
 Web: React, Node.js, Laravel, HTML, CSS, JS<br>
